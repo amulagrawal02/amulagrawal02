@@ -45,6 +45,6 @@
 <p align ="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=amulagrawal02&show_icons=true&locale=en&theme=tokyonight" alt="amulagrawal02"  /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=awantika10&theme=github&count_private=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amulagrawal02&theme=github&count_private=true)
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-Amul_Agrawal-red)](https://github.com/amulagrawal02)
