@@ -5,12 +5,14 @@
 
 </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/amulagrawal02/Shopping-App"> Building e-commerce website using MERN
-- 💬 Ask me about **MERN, C++, DSA**
+- 🔭 I’m currently working on <a href="https://github.com/amulagrawal02/Shopping-App"> Building e-commerce website using MERN  </a>
+- 💬 Ask me about **MERN, C++, DSA**  
 - 📫 How to reach me **amulagrawal32@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amulagrawal02&show_icons=true&locale=en&layout=compact" alt="amulagrawal02" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amulagrawal02&show_icons=true&locale=en" alt="amulagrawal02" /></p>  
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amulagrawal02&show_icons=true&locale=en&layout=compact" alt="amulagrawal02" /></p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=amulagrawal02&show_icons=true&locale=en" alt="amulagrawal02"  /></p>  
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amulagrawal02&" alt="amulagrawal02" /></p>
+ 
