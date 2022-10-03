@@ -5,7 +5,7 @@
 
 </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/amulagrawal02/Shopping-App"> Building e-commerce website using MERN </a>
+- 🔭 I’m currently working on <a href="https://github.com/amulagrawal02/nearme"> Working on nearme(find the nearest rental cars)</a>
 - 💬 Ask me about **MERN, C++, DSA**
 - 📫 How to reach me **amulagrawal32@gmail.com**
   <br>
